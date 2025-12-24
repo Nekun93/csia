@@ -3,6 +3,31 @@
     flex-direction: column;
     height: 100vh;
     width: 100vw;
-    background-color: #000;
-    color: #fff;
+    background-color: #eef0ff;
+    color: #1a1a1a;
+}
+header > div > div > h1 {
+    display: inline;
+}
+/* header > div {
+    border: 2px solid black
+} */
+#myChart {
+    display: inline-block;
+    position: relative;
+    width: 30%
+ }
+ .row > div {
+    border: black solid 2px;
+ }
+.card {
+    height: 300px;
+    text-align: center;
+    justify-content: center;
+    width: 20px;
+    background-color: #a3a2a2;
+}
+header {
+    background-color: #ffffff
+
 }
